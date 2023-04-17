@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927662543247",
+    "project_id": "gofresh1-e6acb",
+    "storage_bucket": "gofresh1-e6acb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927662543247:android:c26ee3ec34381c7ae27bfa",
+        "android_client_info": {
+          "package_name": "com.example.gofresh1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927662543247-lseq75tth4tg4t72atl101fkp3pb1uf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA008MAIFw8btxhFzkCxYnX885fjee9G6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927662543247-lseq75tth4tg4t72atl101fkp3pb1uf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

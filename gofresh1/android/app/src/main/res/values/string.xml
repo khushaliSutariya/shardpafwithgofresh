@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_name">Gofresh</string>
+    <string name="facebook_app_id">598643438974250</string>
+    <string name="fb_login_protocol_scheme">fb598643438974250</string>
+    <string name="facebook_client_token">4fbf02acea181b3da1fd223d10f46059</string>
+</resources>
